@@ -63,7 +63,7 @@ You can send your payments through Paypal to this address: ealigam@gmail.com
 If possible, kindly send us the site's url where the template is being used. 
 Also, keep your Paypal receipt as proof of payment and your good to go.
 
-
+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
 ------------------------------------------------------------------------------------------------------ 
 
 
