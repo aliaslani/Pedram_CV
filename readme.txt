@@ -10,7 +10,7 @@ stylish portfolio section and other features you will only find on premium templ
 clean and organized code, this template is also very easy to customize.
 
 ==================================================================================================
-alaki
+
 
 LICENSE:
 
