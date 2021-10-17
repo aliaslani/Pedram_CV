@@ -128,9 +128,10 @@ h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 
 .digits{
     font-family: "librebaskerville-italic",sans-serif;
-    color: #505050;
+    color: #909090;
+    font-size: large;
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
