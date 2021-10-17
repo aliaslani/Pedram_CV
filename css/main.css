@@ -127,9 +127,8 @@ h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 }
 
 .digits{
-    font-family: "librebaskerville-bold",sans-serif;
-    color: #999999;
-    font-size: small;
+    font-family: "librebaskerville",sans-serif;
+    color: #F0FAF0;
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
