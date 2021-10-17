@@ -133,6 +133,8 @@ h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
+    margin-top: 3.1rem;
+    margin-bottom: 1.5rem;
 }
 
 h1, .h01, h2, .h02, h3, .h03, h4, .h04 {
@@ -146,7 +148,7 @@ h1, .h01, h2, .h02, h3, .h03, h4, .h04 {
     }
 }
 
-h5, .h05, h6, .h06, .digits {
+h5, .h05, h6, .h06 {
     margin-top: 4.2rem;
     margin-bottom: 1.5rem;
 }
